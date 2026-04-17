@@ -2,7 +2,9 @@
 
 Curated collection of GitHub trending projects, self-hosted tools, and Hacker News Show submissions.
 
-## Sources
+## Source
+
+Content curated from [**GitHub Awesome**](https://www.youtube.com/@GithubAwesome) — a YouTube channel that tracks trending GitHub projects, self-hosted tools, and Hacker News Show submissions.
 
 - **GitHub Trending Today** — daily snapshots (episodes 22-30)
 - **GitHub Trending Weekly** — weekly snapshots (episodes 22-30)
